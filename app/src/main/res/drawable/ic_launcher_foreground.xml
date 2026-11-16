@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Документ з лупою: 108x108, безпечна зона 66dp у центрі -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- аркуш -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,28h26l12,12v38a4,4 0,0 1,-4 4H36a4,4 0,0 1,-4 -4V32a4,4 0,0 1,4 -4z" />
+    <path
+        android:fillColor="#C9D8EC"
+        android:pathData="M62,28v10a2,2 0,0 0,2 2h10z" />
+    <!-- рядки -->
+    <path
+        android:fillColor="#0E3A6E"
+        android:pathData="M39,47h22v3H39zM39,54h16v3H39zM39,61h12v3H39z" />
+    <!-- лупа -->
+    <path
+        android:fillColor="#2BB673"
+        android:fillType="evenOdd"
+        android:pathData="M64,56a10,10 0,1 1,0 20a10,10 0,1 1,0 -20zM64,60a6,6 0,1 0,0 12a6,6 0,1 0,0 -12z" />
+    <path
+        android:fillColor="#2BB673"
+        android:pathData="M70.5,71.5l2.8,-2.8l8,8l-2.8,2.8z" />
+</vector>
